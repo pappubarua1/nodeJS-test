@@ -79,7 +79,7 @@ const orderSchema = {
 const Order = mongoose.model("orders", orderSchema);
 
 // const createOrder = Order({
-//   phone: "01851944605",
+//   phone: "01830370262",
 //   orderItems: [items1, items2],
 // });
 
