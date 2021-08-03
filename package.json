@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Pappu Barua Aditya",
+  "author": "Pappu Barua",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
